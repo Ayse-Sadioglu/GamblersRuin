@@ -1,1 +1,1 @@
-Java code that simulates gamblers ruin
+Java code that simulates gambler's ruin
